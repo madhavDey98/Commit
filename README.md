@@ -5,9 +5,9 @@
 
 ## I'm a Student, Developer, and Thinker !!
 
-- 🔭 I am kinda pushing Repo, A new Website made !
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
+- 🔭 I'm kinda pushing Repo, A new Website made !
+- 🌱 I'm currently learning everything 🤣
+- 👯 I'm looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar. 😊
 
