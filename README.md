@@ -40,12 +40,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+ ### :zap: GitHub Stats -:
 
   <img align="left" alt="Madhavendra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=madhavDey98&show_icons=true&theme=cobalt" />
-
-</details>
 
 
 
