@@ -17,9 +17,9 @@
 
 
 [<img src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" width="3%">][youtube]
-[<img align="left" alt="Madhavendra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Madhavendra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Madhavendra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src="https://cdn.cdnlogo.com/logos/t/39/twitter.svg" width="3%">][twitter]
+[<img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="3%">][linkedin]
+[<img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" width="3%">][instagram]
 
 <br />
 
