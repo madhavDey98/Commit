@@ -16,10 +16,10 @@
 ### Connect with me:
 
 
-[<span style="margin-inline:0.5rem;"><img src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" width="3%" ></span>][youtube]
-[<img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" width="3%" style="margin-inline:0.5rem">][twitter]
-[<img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="3%" style="margin-inline:0.5rem">][linkedin]
-[<img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" width="3%" style="margin-inline:0.5rem">][instagram]
+[<img align="left" src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" width="3%">][youtube]
+[<img align="left" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" width="3%" >][twitter]
+[<img align="left" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="3%">][linkedin]
+[<img align="left" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" width="3%">][instagram]
 
 <br />
 
